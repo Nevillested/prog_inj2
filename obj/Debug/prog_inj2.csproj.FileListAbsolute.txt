@@ -1,0 +1,7 @@
+C:\Users\Weabo\source\repos\prog_inj2\bin\Debug\prog_inj2.exe.config
+C:\Users\Weabo\source\repos\prog_inj2\bin\Debug\prog_inj2.exe
+C:\Users\Weabo\source\repos\prog_inj2\bin\Debug\prog_inj2.pdb
+C:\Users\Weabo\source\repos\prog_inj2\obj\Debug\prog_inj2.csprojAssemblyReference.cache
+C:\Users\Weabo\source\repos\prog_inj2\obj\Debug\prog_inj2.csproj.CoreCompileInputs.cache
+C:\Users\Weabo\source\repos\prog_inj2\obj\Debug\prog_inj2.exe
+C:\Users\Weabo\source\repos\prog_inj2\obj\Debug\prog_inj2.pdb
